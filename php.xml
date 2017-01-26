@@ -1,0 +1,9 @@
+<application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="sftp://harry@buck:22/usr/bin/php" id="ac20a3b9-0c98-4b8b-9c86-968f539dc6f7" name="Remote PHP" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="f68d4c0b-75f1-4168-b90b-c4adf519df8c" WEB_SERVER_CONFIG_NAME="Buck" HOST="buck" PORT="22" ANONYMOUS="false" USERNAME="harry" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+</application>
