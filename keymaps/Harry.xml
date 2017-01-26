@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ IDEA Classic copy" parent="$default">
+<keymap version="1" name="Harry" parent="$default">
   <action id="ActivateFindToolWindow" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
