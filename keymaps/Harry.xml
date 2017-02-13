@@ -1,5 +1,15 @@
 <keymap version="1" name="Harry" parent="$default">
   <action id="ActivateFindToolWindow" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
