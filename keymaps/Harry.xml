@@ -1,10 +1,16 @@
 <keymap version="1" name="Harry" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ActivateFindToolWindow" />
   <action id="CloseActiveTab" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorMatchBrace">
