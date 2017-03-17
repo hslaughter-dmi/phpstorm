@@ -4,7 +4,6 @@
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <PHPCodeStyleSettings>
-    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
