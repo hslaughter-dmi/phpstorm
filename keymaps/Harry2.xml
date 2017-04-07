@@ -1,7 +1,0 @@
-<keymap version="1" name="Harry2" parent="Default for XWin">
-  <action id="CallHierarchy" />
-  <action id="ChangesView.ShelveSilently" />
-  <action id="LocalHistory.ShowHistory">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
-  </action>
-</keymap>
