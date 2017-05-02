@@ -4,7 +4,7 @@
     <property name="created">2016-12-23T12:05:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-04-06T11:07:05</property>
+    <property name="modified">2017-05-02T13:56:34</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <font>
@@ -22,6 +22,86 @@
         <option name="FOREGROUND" value="ff" />
         <option name="EFFECT_COLOR" value="ff" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GOTO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_BRACES">
+      <value />
+    </option>
+    <option name="PHP_EXEC_COMMAND_ID">
+      <value>
+        <option name="FOREGROUND" value="3000" />
+        <option name="BACKGROUND" value="e3fcff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="3d40a4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="PHP_PREDEFINED SYMBOL">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="f7faff" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="df9d00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="85413" />
+      </value>
+    </option>
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
