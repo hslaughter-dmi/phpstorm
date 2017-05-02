@@ -21,5 +21,10 @@
       <option name="EFFECT_COLOR" value="ff002a" />
       <option name="ERROR_STRIPE_COLOR" value="e3dbe0" />
     </pattern>
+    <pattern useCustomColors="true" pattern="\n\n\n">
+      <option name="BACKGROUND" value="ff0014" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
   </component>
 </application>
