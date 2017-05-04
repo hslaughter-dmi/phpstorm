@@ -13,13 +13,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -42,6 +35,13 @@
       <mask>*.fea</mask>
       <mask>*.feat</mask>
       <mask>*.featu</mask>
+      <mask>*.featureHealth Topics</mask>
+      <mask>f</mask>
+      <mask>fe</mask>
+      <mask>fea</mask>
+      <mask>feat</mask>
+      <mask>featu</mask>
+      <mask>feature</mask>
       <mask>*.feature</mask>
     </recentFileMasks>
   </component>
