@@ -1,9 +1,0 @@
-<keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="BaseOnThisFunction" />
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
-  <action id="TypeHierarchy" />
-  <action id="TypeHierarchyBase.BaseOnThisType" />
-</keymap>
