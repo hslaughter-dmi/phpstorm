@@ -4,6 +4,7 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="hbr" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
