@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="hbr" type="HTML" />
       <mapping ext="info" type="Ini" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="hbr" type="PLAIN_TEXT" />
+      <mapping ext="install" type="PHP" />
     </extensionMap>
   </component>
 </application>
