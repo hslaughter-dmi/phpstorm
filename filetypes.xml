@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="hbr" type="HTML" />
       <mapping ext="info" type="Ini" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="dfasdf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
