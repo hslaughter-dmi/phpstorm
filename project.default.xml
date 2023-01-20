@@ -1,14 +1,17 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <version value="1.0" />
-      </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="464" y="95" width="992" height="737" key="SettingsEditor" timestamp="1673989612689">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="464" y="95" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080" timestamp="1673989612689" />
+        <state x="464" y="124" width="992" height="737" key="SettingsEditor/0.32.1920.1048" timestamp="1673137673450" />
       </component>
     </defaultProject>
   </component>

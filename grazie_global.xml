@@ -1,0 +1,18 @@
+<application>
+  <component name="GraziConfig">
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="disabledLanguages">
+          <set>
+            <option value="HTML" />
+            <option value="JSON" />
+            <option value="JavaScript" />
+            <option value="PHP" />
+            <option value="XML" />
+            <option value="yaml" />
+          </set>
+        </option>
+      </CheckingContext>
+    </option>
+  </component>
+</application>

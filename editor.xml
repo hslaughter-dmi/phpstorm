@@ -1,44 +1,37 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Harry">
+    <option name="AUTOREPARSE_DELAY" value="1000" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.php; *.yml; *.twig" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="\bdebug\b.*">
-      <option name="FOREGROUND" value="ffad00" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="ffad00" />
-      <option name="ERROR_STRIPE_COLOR" value="ffad00" />
-    </pattern>
-    <pattern useCustomColors="true" pattern=".*\n{3}.*">
-      <option name="BACKGROUND" value="ff0014" />
-      <option name="EFFECT_COLOR" value="ff0027" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
-      <option name="EFFECT_TYPE" value="5" />
-    </pattern>
-    <pattern icon="important" pattern="dump(.*)" />
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bBUG: \b">
-      <option name="FOREGROUND" value="bf001a" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
-    </pattern>
-    <filter name="Default">
-      <pattern index="3" />
-      <pattern index="2" />
-      <pattern index="5" />
-      <pattern index="1" />
-      <pattern index="4" />
-      <pattern index="0" />
-    </filter>
+    <pattern pattern="@todo" />
   </component>
 </application>

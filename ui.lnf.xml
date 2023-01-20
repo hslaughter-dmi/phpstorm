@@ -2,16 +2,49 @@
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
   </component>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules>
+      <NestingRule child-file-suffix=".css.map" parent-file-suffix=".css" />
+      <NestingRule child-file-suffix=".min.css" parent-file-suffix=".css" />
+      <NestingRule child-file-suffix=".min.css.map" parent-file-suffix=".css" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".es6" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".es6" />
+      <NestingRule child-file-suffix="-compiled.js" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix="-compiled.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".min.js" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".min.js.map" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
+      <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
+      <NestingRule child-file-suffix=".css.map" parent-file-suffix=".less" />
+      <NestingRule child-file-suffix=".css" parent-file-suffix=".sass" />
+      <NestingRule child-file-suffix=".css.map" parent-file-suffix=".sass" />
+      <NestingRule child-file-suffix=".css" parent-file-suffix=".scss" />
+      <NestingRule child-file-suffix=".css.map" parent-file-suffix=".scss" />
+      <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".d.ts.map" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
+    </nesting-rules>
+  </component>
   <component name="UISettings">
-    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
-    <option name="EDITOR_TAB_PLACEMENT" value="2" />
-    <option name="FONT_SCALE" value="1.0833334" />
-    <option name="FONT_SIZE" value="13" />
+    <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
+    <option name="DISABLE_MNEMONICS" value="true" />
+    <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="16" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
